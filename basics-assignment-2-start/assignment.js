@@ -6,6 +6,7 @@ function func1(){
 function func2(name){
     alert(name)
 }
+console.log('hello'); console.log('this is a one line'); console.log('wow did this work?')
 
 func1()
 func2('JS is the name. Programming is the game')
